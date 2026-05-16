@@ -1,8 +1,8 @@
 ****Hydraulic Jump Group Project****
 
-**Group member(s): Ajay Daniel Pravin, Aaron Viswa Prajod, Anurag Sathyan, K G Athul, R.Roshan**
+**Group member(s):** Ajay Daniel Pravin, Aaron Viswa Prajod, Anurag Sathyan, K G Athul, R.Roshan
 
-**Supervisor(s): Dr. Satheesh K and Dr. Vinod B. R**
+**Supervisor(s):** Dr. Satheesh K and Dr. Vinod B. R
 
 **ABSTRACT**
 
